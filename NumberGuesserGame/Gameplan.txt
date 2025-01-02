@@ -1,0 +1,5 @@
+1. Generate random number between A and B (using the c++ random library)
+2. Player enter random number
+3. If input is too high, output will be: too high; If input is too low, output will be too low
+4. If player find number he wins game
+
